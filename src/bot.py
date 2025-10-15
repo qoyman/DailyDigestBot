@@ -18,7 +18,7 @@ load_dotenv()
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "Hi! I'm your starter bot. Try /help for commands."
+        "Hi! I'm your starter bot. Try /help for commands display."
     )
 
 async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
