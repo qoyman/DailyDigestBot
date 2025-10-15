@@ -58,7 +58,9 @@ Fill `BOT_TOKEN` from **BotFather**, and `OPENWEATHER_API_KEY` from OpenWeather.
 python -m src.bot
 ```
 
-5) **Try commands in Telegram**:
+5) **Open telegram**:
+- `Search for Digestisp_bot`
+**- `Try the following commands`**:
 - `/start`
 - `/help`
 - `/ping`
