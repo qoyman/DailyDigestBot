@@ -60,7 +60,7 @@ python -m src.bot
 
 5) **Open telegram**:
 - `Search for Digestisp_bot`
-**Try commands**:
+**- `Try the following commands`**:
 - `/start`
 - `/help`
 - `/ping`
